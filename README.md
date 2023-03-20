@@ -12,9 +12,9 @@ My Termux setup is customized to enhance the user experience by incorporating pe
 
 ## Components and/or requirements
 
-This setup was made on Android, but will work on IOS trough iSH if that's what you like!
+This setup was made on Android, but will work on iOS trough iSH if that's what you like!
 
-**·[Termux](), always grab it from F-droid.**
+**·[Termux](https://termux.dev/en/), always grab it from [F-droid](https://f-droid.org/en/packages/com.termux/).**
 
 ## Credits
 
