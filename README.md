@@ -8,12 +8,14 @@
 <div align="left">
   
 # Zamux
-My Termux rice, nothing special just my personal touch to make using it more appealing. It uses a dracula colorscheme, I just love it, and changes the font a bit. It incorporates other components like zsh or bat just to add some eye candy and convenience to the experience.
+My Termux setup is customized to enhance the user experience by incorporating personalized design elements. The dracula colorscheme has been selected to improve visual appeal, while the font has been modified for improved readability. Additional components such as zsh and bat have been integrated to enhance convenience and provide aesthetic value.
 
 ## Components and/or requirements
-These config files will probably work on any distro, but gentoo is a personal recommendation for the tinkerers. It's a really simple and barebones setup.
+
+This setup was made on Android, but will work on IOS trough iSH if that's what you like!
 
 **·[Termux](), always grab it from F-droid.**
+
 ## Credits
 
 The realization of my customized setup is owed to the dedicated communities and developers who have contributed their time and expertise to the open-source movement. It is truly an honor to be a part of such a collaborative and supportive community where individuals assist one another in achieving their objectives. As such, I urge everyone to support and recognize the developers responsible for the dependencies I have utilized.
