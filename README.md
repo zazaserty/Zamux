@@ -14,18 +14,12 @@ My Termux setup is customized to enhance the user experience by incorporating pe
 
 This setup was made on Android, but will work on iOS trough iSH if that's what you like!
 
-**·[Termux](https://termux.dev/en/), always grab it from [F-droid](https://f-droid.org/en/packages/com.termux/).**
-
-## Credits
-
-The realization of my customized setup is owed to the dedicated communities and developers who have contributed their time and expertise to the open-source movement. It is truly an honor to be a part of such a collaborative and supportive community where individuals assist one another in achieving their objectives. As such, I urge everyone to support and recognize the developers responsible for the dependencies I have utilized.
-
-Furthermore, I feel it is crucial to acknowledge and appreciate the creators of the individual components utilized within my setup. It is thanks to their talent that I was able to construct the pieces of this "puzzle." While I have made minor modifications to some files, it is their original work that served as the foundation for my setup.
-
-[**·The chad behind the Waybar theme.**](https://github.com/coffebar/dotfiles)
-
-[**·The amazing maintainers of the Dracula Wofi theme.**](https://github.com/dracula/wofi)
-
-[**·The dracula enthusiasts that made the Dunst theme.**](https://github.com/dracula/dunst)
-
-[**·The incredible Dracula Theme Hub.**](https://draculatheme.com)
+**·[Termux](https://termux.dev/en/), always grab it from [F-Droid](https://f-droid.org/en/packages/com.termux/).**
+  
+**·[Figlet](https://figlet.org/) for the banner.**
+  
+**·[Termux: Styling](https://f-droid.org/en/packages/com.termux.styling/), always grab it from F-Droid. Used to change the colorscheme to dracula and the font to FiraCode.**
+  
+**·[Neofetch](https://github.com/dylanaraps/neofetch) to show the android logo.**
+  
+**·[Zsh](https://www.zsh.org/) with [OhMyZsh](https://ohmyz.sh/) for the shell.**
