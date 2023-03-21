@@ -1,4 +1,4 @@
-![alt text](https://github.com/zazaserty/Zamux/blob/main/attachments/rice.jpg)
+![alt text](https://github.com/zazaserty/Zamux/blob/main/attachments/ric3.jpg)
 
 <div align="center">
 
