@@ -14,12 +14,12 @@ My Termux setup is customized to enhance the user experience by incorporating pe
 
 This setup was made on Android, but will work on iOS trough iSH if that's what you like!
 
-**·[Termux](https://termux.dev/en/), always grab it from [F-Droid](https://f-droid.org/en/packages/com.termux/).**
+- **[Termux](https://termux.dev/en/), always grab it from [F-Droid](https://f-droid.org/en/packages/com.termux/).**
   
-**·[Figlet](https://figlet.org/) for the banner.**
+- **[Figlet](https://figlet.org/) for the banner.**
   
-**·[Termux: Styling](https://f-droid.org/en/packages/com.termux.styling/), always grab it from F-Droid. Used to change the colorscheme to dracula and the font to FiraCode.**
+- **[Termux: Styling](https://f-droid.org/en/packages/com.termux.styling/), always grab it from F-Droid. Used to change the colorscheme to dracula and the font to FiraCode.**
   
-**·[Neofetch](https://github.com/dylanaraps/neofetch) to show the android logo.**
+- **[Neofetch](https://github.com/dylanaraps/neofetch) to show the android logo.**
   
-**·[Zsh](https://www.zsh.org/) with [OhMyZsh](https://ohmyz.sh/) for the shell.**
+- **[Zsh](https://www.zsh.org/) with [OhMyZsh](https://ohmyz.sh/) for the shell.**
